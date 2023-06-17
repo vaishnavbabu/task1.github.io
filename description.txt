@@ -1,0 +1,17 @@
+description
+
+Yours->>
+on clicking the your button on the nav bar a new section will be opened greeting the user.
+
+All->>
+
+on clicking a section will open showing all the details .
+
+
+
+filter button(on right most side) ->>
+
+on clicking it a pop-up will appear with contents such as type(check box) , cardholder(drop-down list) and a button to apply changes and clear 
+
+
+
